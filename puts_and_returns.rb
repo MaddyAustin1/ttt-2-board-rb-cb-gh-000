@@ -4,4 +4,6 @@ def restaurant
   motto = "Welcome to Flavor Town!"
 end
 
-restaurant 
+def print_name
+  puts "Guy Fieri"
+end
