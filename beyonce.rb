@@ -1,2 +1,2 @@
 num_of_attendees = 547
-puts "There are " + string(num_of_attendees) + " people coming to beyonce's birthday party."
+puts "There are " + num_of_attendees + " people coming to beyonce's birthday party."
